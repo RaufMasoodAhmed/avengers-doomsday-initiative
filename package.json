@@ -9,14 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.2.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "clsx": "^2.1.1",
     "framer-motion": "^12.4.7",
     "gsap": "^3.12.7",
     "lenis": "^1.1.20",
     "lucide-react": "^1.16.0",
-    "clsx": "^2.1.1",
+    "next": "^16.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "tailwind-merge": "^3.0.2"
   },
   "devDependencies": {
@@ -29,4 +29,3 @@
     "typescript": "^5.7.3"
   }
 }
-
