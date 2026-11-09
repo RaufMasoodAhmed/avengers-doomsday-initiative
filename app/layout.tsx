@@ -19,6 +19,11 @@ export const metadata: Metadata = {
     'Victor von Doom',
     'Marvel Cinematic Universe',
   ],
+  icons: {
+    icon: '/icon.png',
+    shortcut: '/icon.png',
+    apple: '/icon.png',
+  },
 };
 
 export default function RootLayout({
